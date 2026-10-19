@@ -216,4 +216,4 @@ Adobe Type Manager is offered as a **full free version**. This means you get acc
 Ready to enhance your font management experience? **Download Adobe Type Manager free today and take control of your typography!**
 
 ---
-**Last updated:** 2026-10-19 12:24:03 UTC
+**Last updated:** 2026-10-19 19:04:56 UTC
